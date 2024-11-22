@@ -1,0 +1,1 @@
+docker build -t simonhylau/python:3.12 .
